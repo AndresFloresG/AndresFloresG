@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/AndresFloresG?cardType=octocat&theme=nightowl&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AndresFloresG&theme=cobalt&hide_border=true)](https://git.io/streak-stats)
